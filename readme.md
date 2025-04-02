@@ -18,10 +18,6 @@ The dataset is designed to support research in the cybersecurity of industrial c
 
 Repository/ ├── Normal_Traffic/ │ ├── day01.pcap │ ├── ... │ └── day14.pcap ├── Attack_Injected_Traffic/ │ ├── mitm/ │ │ └── traffic_with_mitm_attack.pcap │ ├── replay/ │ │ └── traffic_with_replay_attack.pcap │ ├── fuzzing/ │ ├── command_flooding/ │ ├── data_spoofing/ │ ├── s7comm_exploit/ │ ├── stealthy_injection/ │ └── syn_flooding/
 
-yaml
-Copy
-Edit
-
 ---
 
 ## Attack Types
@@ -89,7 +85,7 @@ This dataset is ideal for:
 - **DOI / Data ID:** *[To be specified]*
 - **Direct Download URL:** *[To be specified]*
 - **Access Instructions:** *[To be added once the dataset is published]*
-- **License:** *[Specify license type, e.g., CC BY 4.0]*
+- **License:** *[To be specified]*
 
 ---
 
@@ -101,8 +97,6 @@ This dataset was created by:
 - **Ahmed Shatnawi** – Software Development, Validation  
 - **Ahmad Al-Hammouri** – Writing, Visualization
 
-No external funding was received for this work.
-
 ---
 
 ## Citation
@@ -110,10 +104,6 @@ No external funding was received for this work.
 Please cite the dataset as follows (placeholder until publication):
 
 Al-Duwairi, B., Shatnawi, A., & Al-Hammouri, A. (2025). Dataset of SCADA Traffic Captures from a Medical Waste Incinerator with Injected Cyber Attacks. [Data Repository Name]. [DOI]
-
-yaml
-Copy
-Edit
 
 ---
 
