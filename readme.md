@@ -14,12 +14,6 @@ The dataset is designed to support research in the cybersecurity of industrial c
 
 ---
 
-## Repository Structure
-
-Repository/ ├── Normal_Traffic/ │ ├── day01.pcap │ ├── ... │ └── day14.pcap ├── Attack_Injected_Traffic/ │ ├── mitm/ │ │ └── traffic_with_mitm_attack.pcap │ ├── replay/ │ │ └── traffic_with_replay_attack.pcap │ ├── fuzzing/ │ ├── command_flooding/ │ ├── data_spoofing/ │ ├── s7comm_exploit/ │ ├── stealthy_injection/ │ └── syn_flooding/
-
----
-
 ## Attack Types
 
 Each synthetic attack was injected offline using custom Python scripts built on Scapy 2.5.0. Below is a summary of the included attack types:
